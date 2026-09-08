@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShauryaProjects/Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/ShauryaProjects/Leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -47,4 +48,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShauryaProjects/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/ShauryaProjects/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShauryaProjects/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
