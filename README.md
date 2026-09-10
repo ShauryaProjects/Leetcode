@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShauryaProjects/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ShauryaProjects/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/ShauryaProjects/Leetcode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShauryaProjects/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/ShauryaProjects/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ShauryaProjects/Leetcode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
