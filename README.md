@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/ShauryaProjects/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/ShauryaProjects/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShauryaProjects/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShauryaProjects/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,8 +54,13 @@
 | [0070-climbing-stairs](https://github.com/ShauryaProjects/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShauryaProjects/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShauryaProjects/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShauryaProjects/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShauryaProjects/Leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShauryaProjects/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
